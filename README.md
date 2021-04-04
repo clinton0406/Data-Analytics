@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @clinton0406
+- 👀 I’m interested in performing data analysis through reports and dashboards that display KPIs for the clients to make business decisions using Tableau and Excel.
+- 🌱 I’m currently learning PowerBI and Python Pandas and Numpy.
+- 💞️ I’m looking to collaborate on Data Analytics, Data Visualization and Data Science.
+- 📫 Reach out to me on email ID clinton.senapati@gmail.com
